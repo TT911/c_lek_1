@@ -1,0 +1,15 @@
+D:\heap_edu\C_lek_1\hello_cons\bin\Debug\net6.0\hello_cons.exe
+D:\heap_edu\C_lek_1\hello_cons\bin\Debug\net6.0\hello_cons.deps.json
+D:\heap_edu\C_lek_1\hello_cons\bin\Debug\net6.0\hello_cons.runtimeconfig.json
+D:\heap_edu\C_lek_1\hello_cons\bin\Debug\net6.0\hello_cons.dll
+D:\heap_edu\C_lek_1\hello_cons\bin\Debug\net6.0\hello_cons.pdb
+D:\heap_edu\C_lek_1\hello_cons\obj\Debug\net6.0\hello_cons.csproj.AssemblyReference.cache
+D:\heap_edu\C_lek_1\hello_cons\obj\Debug\net6.0\hello_cons.GeneratedMSBuildEditorConfig.editorconfig
+D:\heap_edu\C_lek_1\hello_cons\obj\Debug\net6.0\hello_cons.AssemblyInfoInputs.cache
+D:\heap_edu\C_lek_1\hello_cons\obj\Debug\net6.0\hello_cons.AssemblyInfo.cs
+D:\heap_edu\C_lek_1\hello_cons\obj\Debug\net6.0\hello_cons.csproj.CoreCompileInputs.cache
+D:\heap_edu\C_lek_1\hello_cons\obj\Debug\net6.0\hello_cons.dll
+D:\heap_edu\C_lek_1\hello_cons\obj\Debug\net6.0\refint\hello_cons.dll
+D:\heap_edu\C_lek_1\hello_cons\obj\Debug\net6.0\hello_cons.pdb
+D:\heap_edu\C_lek_1\hello_cons\obj\Debug\net6.0\hello_cons.genruntimeconfig.cache
+D:\heap_edu\C_lek_1\hello_cons\obj\Debug\net6.0\ref\hello_cons.dll
